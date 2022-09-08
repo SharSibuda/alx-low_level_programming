@@ -1,8 +1,9 @@
 #include <stdio.h>
+
 /**
-* main - Entry point
-* 
-* Return: Always 0 (Success)
+*main - Prints the size of many var types
+*
+*Return: Always 0 (Success)
 */
 int main(void)
 {
